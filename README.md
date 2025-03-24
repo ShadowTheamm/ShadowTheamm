@@ -41,9 +41,4 @@ ou via nos pages de contact sur le profil
 
 
 <img src="https://jpcdn.it/img/small/01868a47e5b50ed188d32133929c3600.png" alt="signature" width="200" height="150">
-<img src="https://jpcdn.it/img/small/3591caf72a57c7bd1491f4003133a6d3.png" alt=" Good Bay" width="120" height="120">
-
-
-<img src="https://jpcdn.it/img/small/2229a0930d74881b6c37b390d4365b66.png" alt="logo admin" width="130" height="130">
-
-
+<img 
